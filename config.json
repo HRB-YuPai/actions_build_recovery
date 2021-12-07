@@ -7,7 +7,7 @@
   "dt_url": "HRB-YuPai/twrp_device_lx04",
   "dt_branch": "android-8.1-old",
   "dt_remote": "github",
-  "dt_path": "device/XiaoAiTongXue/mi_lx04",
+  "dt_path": "device/xiaomi/mi_lx04",
   "device_code": "mi_lx04",
   "fix_product": true,
   "fix_misscom": true,
